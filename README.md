@@ -1,6 +1,9 @@
 # OuteTTS (personal learning)
 
 ## code from: [https://github.com/edwko/OuteTTS](https://github.com/edwko/OuteTTS)
+個人小結:
+. 測試結果顯示中英文的 TTS 效果不錯，但無法控制速度只能控制溫度去微調豐富性，但 voice clone 的效果就不太理想，生成之音檔與參考音檔差很多 (音色)，並且推理時間長不太適合即時推理使用
+. 中/英文皆有口音，可能是訓練資料集的問題，比較無法生成台灣的語音
 
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-OuteTTS_0.2_500M-blue)](https://huggingface.co/OuteAI/OuteTTS-0.2-500M)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-OuteTTS_0.2_500M_GGUF-blue)](https://huggingface.co/OuteAI/OuteTTS-0.2-500M-GGUF)
