@@ -131,3 +131,4 @@ https://www.outeai.com/blog/outetts-0.1-350m
 - Uroman: [GitHub Repository](https://github.com/isi-nlp/uroman)
     - "This project uses the universal romanizer software 'uroman' written by Ulf Hermjakob, USC Information Sciences Institute (2015-2020)".
 - mecab-python3 [GitHub Repository](https://github.com/SamuraiT/mecab-python3)
+- OuteTTS [GitHub Repository](https://github.com/edwko/OuteTTS)
