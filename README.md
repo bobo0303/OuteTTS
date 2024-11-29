@@ -1,4 +1,6 @@
-# OuteTTS
+# OuteTTS (personal learning)
+
+code from: https://github.com/edwko/OuteTTS[https://github.com/edwko/OuteTTS]
 
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-OuteTTS_0.2_500M-blue)](https://huggingface.co/OuteAI/OuteTTS-0.2-500M)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-OuteTTS_0.2_500M_GGUF-blue)](https://huggingface.co/OuteAI/OuteTTS-0.2-500M-GGUF)
